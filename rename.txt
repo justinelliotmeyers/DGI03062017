@@ -1,0 +1,1 @@
+"DG_"&Left( Mid( [acquisitio], 6 ),2 )&Left( Mid( [acquisitio], 9 ),2 )&Left( [acquisitio], 4 ) &"_"& [JDGNAME] &"_"& [stripDesc]
